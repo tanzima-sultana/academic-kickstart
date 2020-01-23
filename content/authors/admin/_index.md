@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Tanzima Sultana
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,29 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Ph.D student in Computer Science at Texas State University, San Marcos
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Texas State University, San Marcos, TX - 78666
+  url: "https://www.txstate.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a Ph.D student in Computer Science at Texas State University started from Fall 2019. 
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- High Performance Computing
+- Heterogenous Computing
+- Parallel Processing
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Ph.D in Computer Science
+    institution: Texas State University, San Marcos
+    year: 2019 - Present
+  - course: B.Sc in Computer Science & Engineering
+    institution: Khulna University of Engineering & Technology, Bangladesh
+    year: 2011 - 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,9 +41,9 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
+  link: '#contact'  # For a direct email link, use "mailto:t_s377@txstate.edu".
+- icon: linkedin-in
+  icon_pack: fab 
   link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
