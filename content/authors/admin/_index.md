@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D student in Computer Science at Texas State University, San Marcos
+role: Ph.D student Computer Science Texas State University, San Marcos
 
 # Organizations/Affiliations
 organizations:
