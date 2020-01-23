@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D student Computer Science Texas State University, San Marcos
+role: Ph.D student    Computer Science
 
 # Organizations/Affiliations
 organizations:
@@ -41,13 +41,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:t_s377@txstate.edu".
+  link: '#contact'  # For a direct email link, use "mailto:t_s377@txstate.edu"
+- icon: at
+  icon_pack: fas
+  link: '#contact'  # For a direct email link, use "mailto:tanzimadiba@Gmail.com"
 - icon: linkedin-in
   icon_pack: fab 
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://www.linkedin.com/in/tanzima-sultana/
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
@@ -55,7 +55,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
-#   link: files/cv.pdf
+#   link: files/Tanzima_Sultana_CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
